@@ -1,2 +1,2 @@
 # SMR
-Cosas
+Apuntes
